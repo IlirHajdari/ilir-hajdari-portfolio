@@ -26,4 +26,4 @@ Thank you for considering me as a potential candidate for your open position. I 
 
 # Image of Website
 
-![Image of the complete website](websiteSS.png)
+![Image of the complete website](./assets/images/websiteSS.png)

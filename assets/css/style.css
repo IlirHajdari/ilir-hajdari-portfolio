@@ -281,7 +281,7 @@ main {
 
 .hype-hub {
   background-image: url(../images/HypeHubProjectImage.png);
-  background-position: left;
+  background-position: center;
 }
 
 @media screen and (max-width: 980px) {
